@@ -11,7 +11,7 @@ cartao.addEventListener("click", (e) => {
 btnConfirmar.addEventListener("click", (e) => {
     e.stopPropagation();
 
-    const url = "https://wa.me/55619995545?text=Olá!+Confirmo+presença+no+piquenique+da+Maylla!+🍓🧺";
+    const url = "https://wa.me/5562999554568?text=Olá!+Confirmo+presença+no+piquenique+da+Maylla!+🍓🧺";
     window.open(url, "_blank");
 });
 
